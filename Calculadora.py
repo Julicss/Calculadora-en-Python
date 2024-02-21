@@ -1,3 +1,4 @@
+
 d1 = input ("Ingresa primer numero:")
 d2 = input ("Ingresa segundo numero:")
 
@@ -11,10 +12,10 @@ div = d1 / d2
 
 mensaje = f"""
 Para los numeros {d1} y {d2}.
-El resultado de la suma es {suma}.
-el resultado de la resta es {resta}.
-el resultado de la multiplicacion es {multi}.
-el resultado de la division es {div}.
+El resultado de la suma es {suma}
+El resultado de la resta es {resta}.
+El resultado de la multiplicacion es {multi}.
+El resultado de la division es {div}.
 """
 
 print (mensaje)
